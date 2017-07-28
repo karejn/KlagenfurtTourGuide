@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">Klagenfurt Tour Guide</string>
+    <string name="price">Price:</string>
+    <string name="name">Name Placeholder</string>
+    <string name="description">Descriptive Text Here</string>
+    <string name="€€€">€€€</string>
+
+    <!-- Category names -->
+    <string name="museums_tab">Museums</string>
+    <string name="eating_tab">Eating</string>
+    <string name="drinking_tab">Drinking</string>
+    <string name="shopping_tab">Shopping</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Drinking arrays -->
+    <string-array name="drinking_name">
+        <item>((stereo)) Club</item>
+        <item>Claddagh</item>
+        <item>Checkpoint-Charlie</item>
+        <item>Mole´s Inn</item>
+    </string-array>
+
+    <string-array name="drinking_description">
+        <item>Live concerts and DJ nights.</item>
+        <item>Irish Pub with good prices.</item>
+        <item>Friendly rock bar.</item>
+        <item>Rock and Blues Bar.</item>
+    </string-array>
+
+    <string-array name="drinking_web">
+        <item>http://www.stereoclub.at</item>
+        <item>https://www.claddagh.at/</item>
+        <item>https://www.facebook.com/pages/Checkpoint-Charlie/204559926231389</item>
+        <item>https://www.molesinn.com</item>
+    </string-array>
+
+    <string-array name="drinking_price">
+        <item>€€</item>
+        <item>€</item>
+        <item>€</item>
+        <item>€€</item>
+    </string-array>
+
+    <!-- Eating arrays -->
+    <string-array name="eating_name">
+        <item>Uni.Wirt</item>
+        <item>Frankies</item>
+        <item>Rösch</item>
+        <item>Bierhaus zum Augustin</item>
+    </string-array>
+
+    <string-array name="eating_description">
+        <item>Good local close to the university.</item>
+        <item>Best burgers in Klagenfurt.</item>
+        <item>Very tasty, but rather expensive.</item>
+        <item>Austrian restaurant with typical austrian food.</item>
+    </string-array>
+
+    <string-array name="eating_web">
+        <item>http://www.uniwirt.at</item>
+        <item>http://www.frankies-bar.at/</item>
+        <item>http://www.hotel-roesch.at/restaurant/index.php</item>
+        <item>http://www.gut-essen-trinken.at/</item>
+    </string-array>
+
+    <string-array name="eating_price">
+        <item>€€</item>
+        <item>€€</item>
+        <item>€€€€</item>
+        <item>€€€</item>
+    </string-array>
+
+    <!-- Museums arrays -->
+    <string-array name="museum_name">
+        <item>Armorial Hall at Landhaushof</item>
+        <item>Museum of Modern Art Carinthia</item>
+        <item>City Gallery Klagenfurt am Wörthersee</item>
+        <item>Europahaus</item>
+    </string-array>
+
+    <string-array name="museum_description">
+        <item>Historical museum.</item>
+        <item>1,000 m² exhibition space.</item>
+        <item>From international modernist classics to contemporary art and special theme exhibitions.</item>
+        <item>Professional and amateur artists are invited to put their works on display.</item>
+    </string-array>
+
+    <string-array name="museum_web">
+        <item>http://www.landesmuseum.ktn.gv.at/wappensaal</item>
+        <item>http://www.mmkk.at/</item>
+        <item>http://www.stadtgalerie.net</item>
+        <item>http://europahaus-klagenfurt.at/cms/</item>
+    </string-array>
+
+    <string-array name="museum_price">
+        <item>€€</item>
+        <item>€€€</item>
+        <item>€</item>
+        <item>free</item>
+    </string-array>
+
+    <!-- Shopping arrays -->
+    <string-array name="shopping_name">
+        <item>City Arkaden Mall</item>
+        <item>Südpark Mall</item>
+        <item>Benedictine Market</item>
+        <item>Alps-Adriatic Arts and Crafts Market</item>
+    </string-array>
+
+    <string-array name="shopping_description">
+        <item>Here you can find some 120 shops and numerous cafés and bistros.</item>
+        <item>Near Central Station.</item>
+        <item>Delicious foods and fresh grocery.</item>
+        <item>Interesting and unique designs.</item>
+    </string-array>
+
+    <string-array name="shopping_web">
+        <item>http://www.city-arkaden-klagenfurt.at</item>
+        <item>http://www.suedpark.at/</item>
+        <item>https://www.visitklagenfurt.at/en/details/benedictine-market-klagenfurt/8110ac33cc0ea89e7e57575de5386fbf/</item>
+        <item>https://www.visitklagenfurt.at/en/shopping-markets/markets/alps-adriatic-arts-and-crafts-market/</item>
+    </string-array>
+
+    <string-array name="shopping_price">
+        <item>€-€€€€</item>
+        <item>€-€€€€</item>
+        <item>€€</item>
+        <item>€€€</item>
+    </string-array>
+
+</resources>
